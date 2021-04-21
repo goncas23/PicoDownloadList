@@ -56,12 +56,14 @@ The `PicoDownloadList` plugin will convert that shortcode into the following HTM
 The final result will be similar to:
 
 * **Summer**
-    * [summer-01](/assets/Summer/summer-01.png) [PNG, 1500 KB]
-    * [summer-02](/assets/Summer/summer-02.png) [PNG, 1650 KB]
+    * [summer-01](/assets/images/Summer/summer-01.png) [PNG, 1500 KB]
+    * [summer-02](/assets/images/Summer/summer-02.png) [PNG, 1650 KB]
     * **Vacations**
         * [vacations-01](/assets/Summer/Vacations/vacations-01.png) [PNG, 1800 KB]
 * **Autumn**
-    * [autumn-01](/assets/Autumn/autumn-01.png) [PNG, 1400 KB]
-    * [autumn-02](/assets/Autumn/autumn-02.png) [PNG, 1750 KB]
-    * [autumn-02](/assets/Autumn/autumn-03.png) [PNG, 1600 KB]
+    * [autumn-01](/assets/images/Autumn/autumn-01.png) [PNG, 1400 KB]
+    * [autumn-02](/assets/images/Autumn/autumn-02.png) [PNG, 1750 KB]
+    * [autumn-02](/assets/images/Autumn/autumn-03.png) [PNG, 1600 KB]
+
+(Note that these links don't actually work as they are just an example)
     
