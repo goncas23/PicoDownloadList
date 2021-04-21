@@ -42,7 +42,7 @@ The `PicoDownloadList` plugin will convert that shortcode into the following HTM
     <li><b>Vacations</b></li>
     <ul>
       <li><a href="assets/images/Summer/Vacations/vacations-01.png" download>vacations-01</a> [PNG, 1800 KB]</li>
-  </ul>
+    </ul>
   </ul>
   <li><b>Autumn</b></li>
   <ul>
